@@ -15,6 +15,7 @@ This is a simple color switcher website that allows users to change the backgrou
 
 ## Preview
 
+![30 04 2024_20 35 30_REC](https://github.com/rashmikauthaa/04_ColorSwitcher/assets/164472969/3b2862da-a58a-436f-8f6f-8a0cfb065301)
 
 
 ## Getting Started
