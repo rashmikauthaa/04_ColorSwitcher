@@ -15,7 +15,7 @@ This is a simple color switcher website that allows users to change the backgrou
 
 ## Preview
 
-![Animated GIF](30.04.2024_20.35.30_REC.gif)
+
 
 ## Getting Started
 
